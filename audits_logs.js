@@ -2,32 +2,32 @@ module.exports = {
     object: [{
         "timestamp": "4:48",
         "entityType": "Rule Chain",
-        "entityName": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
+        "entityName": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. ",
         "status": "success"
     }, {
         "timestamp": "22:03",
         "entityType": "Entity View",
-        "entityName": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+        "entityName": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. ",
         "status": "success"
     }, {
         "timestamp": "3:43",
         "entityType": "Entity View",
-        "entityName": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula.",
+        "entityName": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
         "status": "success"
     }, {
         "timestamp": "4:21",
         "entityType": "Entity View",
-        "entityName": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+        "entityName": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. ",
         "status": "success"
     }, {
         "timestamp": "8:56",
         "entityType": "Entity View",
-        "entityName": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",
+        "entityName": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
         "status": "success"
     }, {
         "timestamp": "21:01",
         "entityType": "Entity View",
-        "entityName": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio.",
+        "entityName": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. ",
         "status": "success"
     }, {
         "timestamp": "19:01",
@@ -47,17 +47,17 @@ module.exports = {
     }, {
         "timestamp": "20:08",
         "entityType": "Entity View",
-        "entityName": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "entityName": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. ",
         "status": "success"
     }, {
         "timestamp": "12:01",
         "entityType": "Rule Chain",
-        "entityName": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
+        "entityName": "Aliquam sit amet diam in magna bibendum imperdiet. ",
         "status": "success"
     }, {
         "timestamp": "4:23",
         "entityType": "Entity View",
-        "entityName": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+        "entityName": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. ",
         "status": "cancel"
     }, {
         "timestamp": "3:54",
@@ -67,12 +67,12 @@ module.exports = {
     }, {
         "timestamp": "2:15",
         "entityType": "Rule Chain",
-        "entityName": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "entityName": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo.",
         "status": "success"
     }, {
         "timestamp": "22:23",
         "entityType": "Entity View",
-        "entityName": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis.",
+        "entityName": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. ",
         "status": "success"
     }, {
         "timestamp": "22:20",
@@ -87,17 +87,17 @@ module.exports = {
     }, {
         "timestamp": "6:36",
         "entityType": "Rule Chain",
-        "entityName": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "entityName": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis.",
         "status": "success"
     }, {
         "timestamp": "13:11",
         "entityType": "Entity View",
-        "entityName": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
+        "entityName": "Praesent id massa id nisl venenatis lacinia.",
         "status": "success"
     }, {
         "timestamp": "8:59",
         "entityType": "Entity View",
-        "entityName": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem.",
+        "entityName": "Maecenas ut massa quis augue luctus tincidunt.",
         "status": "success"
     }]
 }
