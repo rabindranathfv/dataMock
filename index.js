@@ -2,14 +2,14 @@ const recintos = require('./recintos');
 const sensores = require('./sensores');
 const zonas = require('./zonas');
 const moduleMock = require('./moduleMock');
-const ruleChain = require('./ruleChain');
+const ruleChain = require('./rule_chain');
 const customers = require('./customers');
-const asset = require('./asset');
+const asset = require('./assets');
 const devices = require('./devices');
-const entityViews = require('./entityViews');
-const WidgetsLibrary = require('./WidgetsLibrary');
-const dashboard = require('./dashboard');
-const auditsLogs = require('./auditsLogs');
+const entityViews = require('./entity_views');
+const WidgetsLibrary = require('./widgets_library');
+const dashboard = require('./dashboards');
+const auditsLogs = require('./audits_logs');
 
 
 function data() {
