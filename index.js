@@ -1,7 +1,7 @@
 const recintos = require('./recintos');
 const sensores = require('./sensores');
 const zonas = require('./zonas');
-const moduleMock = require('./moduleMock');
+const home = require('./home');
 const rule_chain = require('./rule_chain');
 const customers = require('./customers');
 const assets = require('./assets');
@@ -17,7 +17,7 @@ function data() {
         recintos,
         sensores,
         zonas,
-        moduleMock,
+        home,
         rule_chain,
         customers,
         assets,
