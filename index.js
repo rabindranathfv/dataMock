@@ -2,7 +2,7 @@ const recintos = require('./recintos');
 const sensores = require('./sensores');
 const zonas = require('./zonas');
 const home = require('./home');
-const rule_chain = require('./rule_chain');
+const rule_chains = require('./rule_chains');
 const customers = require('./customers');
 const assets = require('./assets');
 const devices = require('./devices');
@@ -18,7 +18,7 @@ function data() {
         sensores,
         zonas,
         home,
-        rule_chain,
+        rule_chains,
         customers,
         assets,
         devices,
