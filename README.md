@@ -3,15 +3,16 @@ Generate data mock like objects using a json-server (https://www.npmjs.com/packa
 
 ## Install globaly
 
-npm -g i json-server
+```npm -g i json-server```
 
 ## Use
+for check those responses
 
-localhost:3000 for check those responses
+```localhost:3000```
 
 ## producing data
 
-json-server index.js
+```json-server index.js```
 
 --> index.js have all the config for produce mock data, U must add and object using const, import it and create a file with the same name for generate that resource
 
