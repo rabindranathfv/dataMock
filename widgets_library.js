@@ -1,39 +1,51 @@
 module.exports = {
     object: [{
-        "widgetId": "Widget 1",
+        "id'": 1,
+        "name": 'Widget 1',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 2",
+        "id'": 2,
+        "name": 'Widget 2',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 3",
+        "id'": 3,
+        "name": 'Widget 3',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 4",
+        "id'": 4,
+        "name": 'Widget 4',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 5",
+        "id'": 5,
+        "name": 'Widget 5',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 6",
+        "id'": 6,
+        "name": 'Widget 6',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 7",
+        "id'": 7,
+        "name": 'Widget 7',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 8",
+        "id'": 8,
+        "name": 'Widget 8',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 9",
+        "id'": 9,
+        "name": 'Widget 9',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 10",
+        "id'": 10,
+        "name": 'Widget 10',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 11",
+        "id'": 11,
+        "name": 'Widget 11',
         "mode": "SYSTEM"
     }, {
-        "widgetId": "Widget 12",
+        "id'": 12,
+        "name": 'Widget 12',
         "mode": "SYSTEM"
     }]
 }

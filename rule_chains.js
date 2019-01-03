@@ -1,10 +1,12 @@
 module.exports = {
     object: [{
-            "ruleChainId": "ruleChain-1",
+            "id": 1,
+            "name": 'ruleChain-1',
             "description": "engineer dot-com solutions"
         },
         {
-            "ruleChainId": "ruleChain-2",
+            "id": 2,
+            "name": 'ruleChain-2',
             "description": "incubate scalable technologies"
         }
     ]
