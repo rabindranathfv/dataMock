@@ -1,23 +1,33 @@
 module.exports = {
     object: [{
-        "deviceId": 1,
+        "id": 1,
         "mode": "DEFAULT",
+        "name": 'Device1',
+        "typeData": 'dev',
         "description": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
     }, {
-        "deviceId": 2,
+        "id": 2,
         "mode": "DEFAULT",
+        "name": 'Device2',
+        "typeData": 'dev',
         "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue."
     }, {
-        "deviceId": 3,
+        "id": 3,
         "mode": "DEFAULT",
+        "name": 'Device3',
+        "typeData": 'dev',
         "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus."
     }, {
-        "deviceId": 4,
+        "id": 4,
         "mode": "DEFAULT",
+        "name": 'Device4',
+        "typeData": 'dev',
         "description": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit."
     }, {
-        "deviceId": 5,
+        "id": 5,
         "mode": "DEFAULT",
+        "name": 'Device5',
+        "typeData": 'dev',
         "description": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula."
     }]
 }
