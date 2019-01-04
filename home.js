@@ -1,51 +1,51 @@
 module.exports = {
     object: [{
-            'id': 1,
-            'moduleName': 'Rule Management',
+            "id": 1,
+            "moduleName": 'Rule Management',
             "typeData": 'home',
-            'icon': 'fa fa-code'
+            "icon": 'fa fa-code'
         },
         {
-            'id': 2,
-            'moduleName': 'Customer Management',
+            "id": 2,
+            "moduleName": 'Customer Management',
             "typeData": 'home',
-            'icon': 'fa fa-users'
+            "icon": 'fa fa-users'
         },
         {
-            'id': 3,
-            'moduleName': 'Asset Management',
+            "id": 3,
+            "moduleName": 'Asset Management',
             "typeData": 'home',
-            'icon': 'fa fa-th'
+            "icon": 'fa fa-th'
         },
         {
-            'id': 4,
-            'moduleName': 'Device Management',
+            "id": 4,
+            "moduleName": 'Device Management',
             "typeData": 'home',
-            'icon': 'fa fa-tablet'
+            "icon": 'fa fa-tablet'
         },
         {
-            'id': 5,
-            'moduleName': 'Entity View Management',
+            "id": 5,
+            "moduleName": 'Entity View Management',
             "typeData": 'home',
-            'icon': 'fa fa-th-large'
+            "icon": 'fa fa-th-large'
         },
         {
-            'id': 6,
-            'moduleName': 'Widgets View Management',
+            "id": 6,
+            "moduleName": 'Widgets View Management',
             "typeData": 'home',
-            'icon': 'fa fa-tasks'
+            "icon": 'fa fa-tasks'
         },
         {
-            'id': 7,
-            'moduleName': 'Dashboard Management',
+            "id": 7,
+            "moduleName": 'Dashboard Management',
             "typeData": 'home',
-            'icon': 'icon-speedometer'
+            "icon": 'icon-speedometer'
         },
         {
-            'id': 8,
-            'moduleName': 'Audit',
+            "id": 8,
+            "moduleName": 'Audit',
             "typeData": 'home',
-            'icon': 'fa fa-files-o'
+            "icon": 'fa fa-files-o'
         }
     ]
 }
